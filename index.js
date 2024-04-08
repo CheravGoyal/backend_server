@@ -15,6 +15,10 @@ app.get('/login', (req, res) => {
     res.send('<h1>Cherav DOTNET Developer</h1>')
 })
 
+app.get('/loginnew', (req, res) => {
+    res.send('<h1>Cherav1 DOTNET Developer</h1>')
+})
+
 app.get('/youtube', (req, res) => {
     res.send('<h2>Cherav aur Code</h2>')
 })
