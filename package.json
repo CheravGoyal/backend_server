@@ -1,0 +1,19 @@
+{
+  "name": "cherav_backend",
+  "version": "1.0.0",
+  "description": "BACKEND",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "cherav goyal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
